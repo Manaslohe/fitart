@@ -1,0 +1,415 @@
+.qodef-bmi-calculator-holder input[type=text],
+.qodef-bmi-calculator-holder select,
+.qodef-bmi-calculator-holder textarea {
+    width: 100%;
+    margin: 0 0 25px;
+    padding: 15px 20px;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    font-weight: inherit;
+    background-color: #f7f7f7;
+    color: #313646;
+    border-radius: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    cursor: text;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: border-color .2s ease-in-out;
+    -o-transition: border-color .2s ease-in-out;
+    transition: border-color .2s ease-in-out
+}
+
+.qodef-bmi-calculator-holder input[type=text]::-webkit-input-placeholder,
+.qodef-bmi-calculator-holder select::-webkit-input-placeholder,
+.qodef-bmi-calculator-holder textarea::-webkit-input-placeholder {
+    color: inherit
+}
+
+.qodef-bmi-calculator-holder input:-moz-placeholder[type=text],
+.qodef-bmi-calculator-holder select:-moz-placeholder,
+.qodef-bmi-calculator-holder textarea:-moz-placeholder {
+    color: inherit;
+    opacity: 1
+}
+
+.qodef-bmi-calculator-holder input[type=text]::-moz-placeholder,
+.qodef-bmi-calculator-holder select::-moz-placeholder,
+.qodef-bmi-calculator-holder textarea::-moz-placeholder {
+    color: inherit;
+    opacity: 1
+}
+
+.qodef-bmi-calculator-holder input:-ms-input-placeholder[type=text],
+.qodef-bmi-calculator-holder select:-ms-input-placeholder,
+.qodef-bmi-calculator-holder textarea:-ms-input-placeholder {
+    color: inherit
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-table-holder {
+    margin-bottom: 50px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-table-holder .qodef-section-title-holder {
+    margin-bottom: 30px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-form-holder {
+    margin-bottom: 50px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-form-holder .qodef-section-subtitle {
+    margin-bottom: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: #9c9c9c;
+    text-transform: none;
+    font-family: Ubuntu, sans-serif
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-form-holder .qodef-section-title {
+    margin-bottom: 17px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-form-holder .qodef-grid-row>:not(:last-child) {
+    margin-bottom: 20px
+}
+
+.qodef-bmi-calculator-holder table thead {
+    font-family: Teko, sans-serif;
+    font-size: 20px;
+    line-height: 1.25em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #29282d
+}
+
+.qodef-bmi-calculator-holder table thead tr {
+    border: none;
+    border-bottom: 1px solid #e5e5e5
+}
+
+.qodef-bmi-calculator-holder table th {
+    text-align: left;
+    padding: 18px 20px 18px 40px
+}
+
+.qodef-bmi-calculator-holder table td {
+    text-align: left;
+    padding: 17px 20px 17px 40px
+}
+
+.qodef-bmi-calculator-holder table td:first-child {
+    width: 35%
+}
+
+.qodef-bmi-calculator-holder table td:last-child {
+    width: 65%
+}
+
+.qodef-bmi-calculator-holder table tbody tr {
+    border: none;
+    color: #2d2d2d;
+    border-bottom: 1px dashed #a7a6a7
+}
+
+.qodef-bmi-calculator-holder table tbody tr:last-child {
+    border-bottom: 0
+}
+
+.qodef-bmi-calculator-holder table tbody tr td,
+.qodef-bmi-calculator-holder table tbody tr th,
+.qodef-bmi-calculator-holder table thead tr td,
+.qodef-bmi-calculator-holder table thead tr th {
+    border-right: 1px dashed #a7a6a7
+}
+
+.qodef-bmi-calculator-holder table tbody tr td:last-child,
+.qodef-bmi-calculator-holder table tbody tr th:last-child,
+.qodef-bmi-calculator-holder table thead tr td:last-child,
+.qodef-bmi-calculator-holder table thead tr th:last-child {
+    border-right: none
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-legend {
+    color: #2d2d2d;
+    margin-top: 13px;
+    font-size: 14px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-legend .qodef-bmic-legend-bold {
+    font-weight: 600
+}
+
+.qodef-bmi-calculator-holder input[type=text],
+.qodef-bmi-calculator-holder select,
+.qodef-bmi-calculator-holder textarea {
+    background-color: #fff;
+    font-size: 15px;
+    margin-bottom: 0;
+    padding: 15px 20px;
+    border: 1px solid #e1e1e1
+}
+
+.qodef-bmi-calculator-holder input[type=text]::-webkit-input-placeholder,
+.qodef-bmi-calculator-holder select::-webkit-input-placeholder,
+.qodef-bmi-calculator-holder textarea::-webkit-input-placeholder {
+    color: #2d2d2d
+}
+
+.qodef-bmi-calculator-holder input[type=text]:-moz-placeholder,
+.qodef-bmi-calculator-holder select:-moz-placeholder,
+.qodef-bmi-calculator-holder textarea:-moz-placeholder {
+    color: #2d2d2d
+}
+
+.qodef-bmi-calculator-holder input[type=text]::-moz-placeholder,
+.qodef-bmi-calculator-holder select::-moz-placeholder,
+.qodef-bmi-calculator-holder textarea::-moz-placeholder {
+    color: #2d2d2d
+}
+
+.qodef-bmi-calculator-holder input[type=text]:-ms-input-placeholder,
+.qodef-bmi-calculator-holder select:-ms-input-placeholder,
+.qodef-bmi-calculator-holder textarea:-ms-input-placeholder {
+    color: #2d2d2d
+}
+
+.qodef-bmi-calculator-holder .select2-container {
+    width: 100%;
+    max-width: 100%
+}
+
+.qodef-bmi-calculator-holder .select2-container .select2-choice {
+    line-height: 55px;
+    height: 55px;
+    font-size: 16px;
+    color: #2d2d2d;
+    background-color: #f8f8f8;
+    border: 1px solid #f2f2f2;
+    -webkit-transition: border-color .2s ease-out;
+    -o-transition: border-color .2s ease-out;
+    transition: border-color .2s ease-out
+}
+
+.qodef-bmi-calculator-holder .select2-container .select2-choice>.select2-chosen {
+    color: #2d2d2d
+}
+
+.qodef-bmi-calculator-holder .select2-container .select2-choice .select2-arrow b:after {
+    color: #f34e3a;
+    line-height: inherit
+}
+
+.qodef-bmi-calculator-holder .select2-container .select2-selection--single {
+    color: #2d2d2d;
+    border-color: #e1e1e1;
+    -webkit-transition: border-color .2s ease-out;
+    -o-transition: border-color .2s ease-out;
+    transition: border-color .2s ease-out
+}
+
+.qodef-bmi-calculator-holder .select2-container .select2-selection--single:focus {
+    border-color: #9c9c9c
+}
+
+.qodef-bmi-calculator-holder .select2-container.select2-container-active .select2-choice {
+    border-color: #f34e3a
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-submit-row {
+    margin-top: 30px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications {
+    background-color: #fff;
+    padding: 26px 23px;
+    border: 1px solid #e1e1e1;
+    position: relative;
+    display: none
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-notification-highlight {
+    font-family: Teko, sans-serif;
+    color: #29282d;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 77px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-notification-text {
+    padding-left: 71px;
+    color: #29282d;
+    vertical-align: middle
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-icon-holder span {
+    width: 50px;
+    height: 60px;
+    display: block;
+    position: absolute;
+    left: 13px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-size: 60px 60px
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-overweight {
+    background: url(img/overweight.png) no-repeat top
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (-o-min-device-pixel-ratio:150 / 100),
+only screen and (min-device-pixel-ratio:1.5),
+only screen and (-webkit-min-device-pixel-ratio:1.6666666666666667),
+only screen and (-o-min-device-pixel-ratio:5/3),
+only screen and (min-resolution:160dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-overweight {
+        background: url(img/overweightx1.5.png) no-repeat
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:200 / 100),
+only screen and (min-device-pixel-ratio:2),
+only screen and (-webkit-min-device-pixel-ratio:2.1875),
+only screen and (-o-min-device-pixel-ratio:35/16),
+only screen and (min-resolution:210dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-overweight {
+        background: url(img/overweightx2.png) no-repeat
+    }
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-obese {
+    background: url(img/obese.png) no-repeat top
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (-o-min-device-pixel-ratio:150 / 100),
+only screen and (min-device-pixel-ratio:1.5),
+only screen and (-webkit-min-device-pixel-ratio:1.6666666666666667),
+only screen and (-o-min-device-pixel-ratio:5/3),
+only screen and (min-resolution:160dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-obese {
+        background: url(img/obesex1.5.png) no-repeat
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:200 / 100),
+only screen and (min-device-pixel-ratio:2),
+only screen and (-webkit-min-device-pixel-ratio:2.1875),
+only screen and (-o-min-device-pixel-ratio:35/16),
+only screen and (min-resolution:210dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-obese {
+        background: url(img/obesex2.png) no-repeat
+    }
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-normal {
+    background: url(img/normal.png) no-repeat top
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (-o-min-device-pixel-ratio:150 / 100),
+only screen and (min-device-pixel-ratio:1.5),
+only screen and (-webkit-min-device-pixel-ratio:1.6666666666666667),
+only screen and (-o-min-device-pixel-ratio:5/3),
+only screen and (min-resolution:160dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-normal {
+        background: url(img/normalx1.5.png) no-repeat
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:200 / 100),
+only screen and (min-device-pixel-ratio:2),
+only screen and (-webkit-min-device-pixel-ratio:2.1875),
+only screen and (-o-min-device-pixel-ratio:35/16),
+only screen and (min-resolution:210dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-normal {
+        background: url(img/normalx2.png) no-repeat
+    }
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-underweight {
+    background: url(img/underweight.png) no-repeat top
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (-o-min-device-pixel-ratio:150 / 100),
+only screen and (min-device-pixel-ratio:1.5),
+only screen and (-webkit-min-device-pixel-ratio:1.6666666666666667),
+only screen and (-o-min-device-pixel-ratio:5/3),
+only screen and (min-resolution:160dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-underweight {
+        background: url(img/underweightx1.5.png) no-repeat
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:200 / 100),
+only screen and (min-device-pixel-ratio:2),
+only screen and (-webkit-min-device-pixel-ratio:2.1875),
+only screen and (-o-min-device-pixel-ratio:35/16),
+only screen and (min-resolution:210dpi) {
+    .qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-underweight {
+        background: url(img/underweightx2.png) no-repeat
+    }
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications.qodef-bmic-notification-error {
+    background-color: #ec9e8f;
+    color: #fff
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications.qodef-bmic-notification-error .qodef-bmic-notification-text {
+    padding-left: 0
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-notification-close {
+    position: absolute;
+    right: 20px;
+    width: 19px;
+    height: 29px;
+    font-size: 24px;
+    color: #f34e3a;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.qodef-bmi-calculator-holder .qodef-bmic-notifications .qodef-bmic-notification-close:after {
+    content: '\4d';
+    font-family: ElegantIcons
+}
+
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border input[type=text],
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border select,
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border textarea {
+    border: none
+}
+
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border input[type=text]:focus,
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border select:focus,
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border textarea:focus {
+    border: none
+}
+
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border .qodef-bmic-notifications {
+    border: none
+}
+
+.qodef-bmi-calculator-holder.qodef-bmi-calculator-without-border .select2-container .select2-selection--single {
+    border: none;
+    background-color: #fff
+}

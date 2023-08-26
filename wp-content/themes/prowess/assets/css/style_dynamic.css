@@ -1,0 +1,88 @@
+.qodef-content .qodef-content-inner>.qodef-full-width>.qodef-full-width-inner {
+    padding: 0
+}
+
+.qodef-content .qodef-content-inner>.qodef-container>.qodef-container-inner {
+    padding: 0
+}
+
+h1 {
+    font-size: 90px
+}
+
+h6 {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .2em
+}
+
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea {
+    height: 50px
+}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date,
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea,
+.cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz {
+    color: #a4a4a4;
+    font-weight: 400;
+    background-color: #212121
+}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus,
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus,
+.cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus,
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus {
+    color: #a4a4a4
+}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit {
+    color: #fff
+}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover {
+    color: #fff
+}
+
+.error404 .qodef-content {
+    background-image: url(https://prowess.qodeinteractive.com/wp-content/uploads/2018/02/404-background-img-1.jpg);
+    background-position: center 0;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.error404 .qodef-page-not-found .qodef-404-title {
+    color: #fff
+}
+
+.error404 .qodef-page-not-found .qodef-404-subtitle {
+    color: #fff
+}
+
+.qodef-page-footer .qodef-footer-top-holder {
+    background-color: #252525
+}
+
+.qodef-page-footer .qodef-footer-bottom-holder {
+    background-color: #202020
+}
+
+.qodef-header-box .qodef-top-bar-background {
+    height: 91px
+}
+
+.qodef-page-header .qodef-menu-area {
+    background-color: transparent
+}
+
+.qodef-main-menu>ul>li>a>span.item_outer .item_text {
+    top: 3px
+}
+
+.qodef-title-holder .qodef-title-wrapper .qodef-page-title {
+    color: #fff
+}

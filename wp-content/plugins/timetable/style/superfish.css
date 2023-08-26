@@ -1,0 +1,101 @@
+.sf-timetable-menu,
+.sf-timetable-menu * {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.sf-timetable-menu {
+    line-height: 1
+}
+
+.sf-timetable-menu ul {
+    position: absolute;
+    top: -999em !important;
+    width: 10em
+}
+
+.sf-timetable-menu ul li {
+    width: 100%
+}
+
+.sf-timetable-menu li:hover {
+    visibility: inherit
+}
+
+.sf-timetable-menu li {
+    float: left;
+    position: relative
+}
+
+.sf-timetable-menu a {
+    display: block;
+    position: relative
+}
+
+.sf-timetable-menu li:hover ul,
+.sf-timetable-menu li.sfHover ul {
+    left: 0;
+    top: 2.5em;
+    z-index: 99
+}
+
+ul.sf-timetable-menu li:hover li ul,
+ul.sf-timetable-menu li.sfHover li ul {
+    top: -999em
+}
+
+ul.sf-timetable-menu li li:hover ul,
+ul.sf-timetable-menu li li.sfHover ul {
+    left: 10em;
+    top: 0
+}
+
+ul.sf-timetable-menu li li:hover li ul,
+ul.sf-timetable-menu li li.sfHover li ul {
+    top: -999em
+}
+
+ul.sf-timetable-menu li li li:hover ul,
+ul.sf-timetable-menu li li li.sfHover ul {
+    left: 10em;
+    top: 0
+}
+
+.sf-timetable-menu {
+    float: left;
+    margin-bottom: 1em
+}
+
+.sf-timetable-menu a {
+    border-left: 1px solid #fff;
+    border-top: 1px solid #cfdeff;
+    padding: .75em 1em;
+    text-decoration: none
+}
+
+.sf-timetable-menu a,
+.sf-timetable-menu a:visited {
+    color: #13a
+}
+
+.sf-timetable-menu li {
+    background: #bdd2ff
+}
+
+.sf-timetable-menu li li {
+    background: #aabde6
+}
+
+.sf-timetable-menu li li li {
+    background: #9aaedb
+}
+
+.sf-timetable-menu li:hover,
+.sf-timetable-menu li.sfHover,
+.sf-timetable-menu a:focus,
+.sf-timetable-menu a:hover,
+.sf-timetable-menu a:active {
+    background: #cfdeff;
+    outline: 0
+}
