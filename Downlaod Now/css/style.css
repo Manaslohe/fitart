@@ -397,6 +397,20 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
+.responsive {
+  width: 60%;
+  height: auto;
+  margin: 0 auto; /* Center horizontally */
+}
+
+@media (max-width: 768px) {
+  .responsive {
+    width: 60%; /* Take full width on mobile */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
+}
 
 .service_section .box .img-box {
   display: -webkit-box;
