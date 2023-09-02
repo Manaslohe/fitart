@@ -6327,8 +6327,8 @@ div.wpcf7 .wpcf7-response-output {
     font-size: 16px;
     text-align: center;
     color: #fff;
-    background-color: #f34e3a;
-    border: 1px solid #f34e3a;
+    background:linear-gradient(to right, #00ff00,#4df);
+    border: 1px solid #fff;
     overflow: hidden
 }
 
@@ -15598,7 +15598,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-blog-single-navigation .qodef-blog-single-next:hover,
 .qodef-blog-single-navigation .qodef-blog-single-prev:hover {
-    color: #f34e3a
+    color: #00FF00
 }
 
 .qodef-blog-single-navigation .qodef-blog-single-prev {
