@@ -315,7 +315,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 h1,
@@ -338,7 +338,7 @@ p a {
 
 a:hover,
 p a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 p {
@@ -429,7 +429,7 @@ blockquote {
     text-align: left;
     quotes: none;
     box-sizing: border-box;
-    border-left: 4px solid #f34e3a;
+    border-left: 4px solid #00ff00;
     font-family: Teko, sans-serif;
     text-transform: uppercase;
     color: #29282d;
@@ -460,12 +460,12 @@ blockquote cite {
 }
 
 ::selection {
-    background: #f34e3a;
+    background: #00ff00;
     color: #fff
 }
 
 ::-moz-selection {
-    background: #f34e3a;
+    background: #00ff00;
     color: #fff
 }
 
@@ -992,7 +992,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     width: 3px;
     height: 58px;
     z-index: -5;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-elementor-row .qodef-grid-line-center,
@@ -3191,7 +3191,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     font-size: 86px;
     letter-spacing: .25em;
     text-transform: uppercase;
-    color: #f34e3a;
+    color: #00ff00;
     opacity: 0;
     display: inline-block;
     font-family: Teko;
@@ -3435,7 +3435,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     width: 32px;
     height: 32px;
     margin: -16px 0 0 -16px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     border-radius: 16px;
     -webkit-animation: scaleout 1s infinite ease-in-out;
     animation: scaleout 1s infinite ease-in-out
@@ -3505,7 +3505,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     opacity: .6;
     position: absolute;
     top: 0;
@@ -3545,7 +3545,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     width: 60px;
     height: 60px;
     margin: -30px 0 0 -30px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     -webkit-animation: rotateplane 1.2s infinite ease-in-out;
     animation: rotateplane 1.2s infinite ease-in-out
 }
@@ -3586,7 +3586,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 
 .qodef-st-loader .rotating_cubes .cube1,
 .qodef-st-loader .rotating_cubes .cube2 {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     width: 10px;
     height: 10px;
     position: absolute;
@@ -3648,7 +3648,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 }
 
 .qodef-st-loader .stripes>div {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     height: 100%;
     width: 6px;
     display: inline-block;
@@ -3710,7 +3710,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 .qodef-st-loader .wave>div {
     width: 18px;
     height: 18px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     margin: 0 3px 0 0;
     border-radius: 100%;
     display: inline-block;
@@ -3771,7 +3771,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     display: inline-block;
     position: absolute;
     top: 0;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     border-radius: 100%;
     -webkit-animation: bounce 2s infinite ease-in-out;
     animation: bounce 2s infinite ease-in-out
@@ -3809,7 +3809,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 .qodef-st-loader .five_rotating_circles .container3>div {
     width: 12px;
     height: 12px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     border-radius: 100%;
     position: absolute;
     -webkit-animation: bouncedelay 1.2s infinite ease-in-out;
@@ -3931,7 +3931,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 
 .qodef-st-loader .atom .ball-1:before {
     content: '';
-    background: #f34e3a;
+    background: #00ff00;
     border-radius: 50%;
     height: 100%;
     width: 100%;
@@ -3956,7 +3956,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background: #f34e3a;
+    background: #00ff00;
     top: 0;
     left: 0;
     margin: 0 auto;
@@ -4140,7 +4140,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     height: 18.31501832px;
     width: 18.31501832px;
     position: absolute;
-    background: #f34e3a
+    background: #00ff00
 }
 
 .qodef-st-loader .clock .ball-1 {
@@ -4417,7 +4417,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     border-radius: 50%;
     top: 0;
     left: 0;
-    background: #f34e3a
+    background: #00ff00
 }
 
 .qodef-st-loader .mitosis .ball-1 {
@@ -4870,7 +4870,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     position: absolute;
     width: 60px;
     height: 4px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     -webkit-animation: lines_spin 1.5s infinite linear;
     -webkit-animation-timing-function: ease
 }
@@ -4923,14 +4923,14 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     width: 40px;
     left: 50%;
     top: 50%;
-    background: #f34e3a;
+    background: #00ff00;
     border-radius: 50%;
     float: left;
     position: absolute
 }
 
 .qodef-st-loader .fussion .ball-1 {
-    background: #f34e3a;
+    background: #00ff00;
     top: 0;
     left: 50%;
     -webkit-animation: fussion_ball1 1s 0s ease infinite;
@@ -4941,7 +4941,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 }
 
 .qodef-st-loader .fussion .ball-2 {
-    background: #f34e3a;
+    background: #00ff00;
     top: 50%;
     left: 100%;
     -webkit-animation: fussion_ball2 1s 0s ease infinite;
@@ -4952,7 +4952,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 }
 
 .qodef-st-loader .fussion .ball-3 {
-    background: #f34e3a;
+    background: #00ff00;
     top: 100%;
     left: 50%;
     -webkit-animation: fussion_ball3 1s 0s ease infinite;
@@ -4963,7 +4963,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 }
 
 .qodef-st-loader .fussion .ball-4 {
-    background: #f34e3a;
+    background: #00ff00;
     top: 50%;
     left: 0;
     -webkit-animation: fussion_ball4 1s 0s ease infinite;
@@ -5175,7 +5175,7 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
     height: 30px;
     width: 30px;
     float: left;
-    background: #f34e3a;
+    background: #00ff00;
     border-radius: 50%;
     margin-right: 10px
 }
@@ -5439,10 +5439,10 @@ section.elementor-section .qodef-grid-line-right .qodef-grid-line-inner {
 .qodef-st-loader .pulse_circles .ball {
     height: 100%;
     width: 100%;
-    background: #f34e3a;
+    background: #00ff00;
     position: absolute;
     border-radius: 50%;
-    border: 0 solid #f34e3a;
+    border: 0 solid #00ff00;
     -webkit-animation: pulse_circles_pulse 3s infinite;
     -moz-animation: pulse_circles_pulse 3s infinite;
     -o-animation: pulse_circles_pulse 3s infinite;
@@ -5722,7 +5722,7 @@ input:-ms-input-placeholder[type=text] {
 .qodef-comment-holder .qodef-comment-text .comment-edit-link:hover,
 .qodef-comment-holder .qodef-comment-text .comment-reply-link:hover,
 .qodef-comment-holder .qodef-comment-text .replay:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-comment-holder .qodef-comment-text .qodef-comment-name {
@@ -5764,7 +5764,7 @@ input:-ms-input-placeholder[type=text] {
 .qodef-comment-holder .qodef-comment-text #cancel-comment-reply-link {
     margin-left: 10px;
     font-size: 12px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-comment-holder .qodef-comment-text #cancel-comment-reply-link:hover {
@@ -5889,7 +5889,7 @@ input.wpcf7-form-control.wpcf7-submit {
     font-size: 14px;
     line-height: 14px;
     color: #fff;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     border: 1px solid transparent;
     cursor: pointer;
     font-family: Ubuntu, sans-serif;
@@ -6095,7 +6095,7 @@ div.wpcf7 .wpcf7-response-output {
 }
 
 .qodef-owl-slider+.qodef-slider-thumbnail>.qodef-slider-thumbnail-item.active img {
-    border: 2px solid #f34e3a
+    border: 2px solid #00ff00
 }
 
 .qodef-owl-slider+.qodef-slider-thumbnail.qodef-slider-columns-two .qodef-slider-thumbnail-item {
@@ -6225,7 +6225,7 @@ div.wpcf7 .wpcf7-response-output {
     padding: 10px 5px;
     line-height: 32px;
     border: none;
-    color: #f34e3a;
+    color: #00ff00;
     background-color: transparent;
     font-size: 30px;
     cursor: pointer;
@@ -6889,7 +6889,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-fullscreen-sidebar .widget ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-sidebar .widget ul .children,
@@ -6944,7 +6944,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 .qodef-fullscreen-sidebar .widget.widget_nav_menu ul li a:hover,
 .qodef-fullscreen-sidebar .widget.widget_pages ul li a:hover,
 .qodef-fullscreen-sidebar .widget.widget_recent_entries ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-sidebar .widget.widget_recent_comments .qodef-widget-title,
@@ -6976,7 +6976,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-fullscreen-sidebar .widget #wp-calendar tfoot a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-sidebar .widget.widget_rss .rss-widget-icon {
@@ -7061,7 +7061,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-fullscreen-sidebar .widget.widget_search .input-holder button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-sidebar .widget.widget_search .input-holder button span {
@@ -7163,7 +7163,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-fullscreen-sidebar .widget.widget_tag_cloud a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-sidebar .widget.qodef-recent-post-widget .qodef-recent-posts .qodef-rp-item {
@@ -7271,7 +7271,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-side-menu .widget ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu .widget ul .children,
@@ -7326,7 +7326,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 .qodef-side-menu .widget.widget_nav_menu ul li a:hover,
 .qodef-side-menu .widget.widget_pages ul li a:hover,
 .qodef-side-menu .widget.widget_recent_entries ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu .widget.widget_recent_comments .qodef-widget-title,
@@ -7358,7 +7358,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-side-menu .widget #wp-calendar tfoot a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu .widget.widget_rss .rss-widget-icon {
@@ -7443,7 +7443,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-side-menu .widget.widget_search .input-holder button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu .widget.widget_search .input-holder button span {
@@ -7545,7 +7545,7 @@ footer .widget .qodef-blog-list-holder ul.qodef-blog-list li {
 }
 
 .qodef-side-menu .widget.widget_tag_cloud a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu .widget.qodef-recent-post-widget .qodef-recent-posts .qodef-rp-item {
@@ -7698,7 +7698,7 @@ aside.qodef-sidebar .widget ul li a {
 
 .wpb_widgetised_column .widget ul li a:hover,
 aside.qodef-sidebar .widget ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .wpb_widgetised_column .widget ul .children,
@@ -7779,7 +7779,7 @@ aside.qodef-sidebar .widget.widget_meta ul li a:hover,
 aside.qodef-sidebar .widget.widget_nav_menu ul li a:hover,
 aside.qodef-sidebar .widget.widget_pages ul li a:hover,
 aside.qodef-sidebar .widget.widget_recent_entries ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .wpb_widgetised_column .widget.widget_recent_comments .qodef-widget-title,
@@ -7820,7 +7820,7 @@ aside.qodef-sidebar .widget #wp-calendar tfoot a {
 
 .wpb_widgetised_column .widget #wp-calendar tfoot a:hover,
 aside.qodef-sidebar .widget #wp-calendar tfoot a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .wpb_widgetised_column .widget.widget_rss .rss-widget-icon,
@@ -7919,7 +7919,7 @@ aside.qodef-sidebar .widget.widget_search .input-holder button {
 
 .wpb_widgetised_column .widget.widget_search .input-holder button:hover,
 aside.qodef-sidebar .widget.widget_search .input-holder button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .wpb_widgetised_column .widget.widget_search .input-holder button span,
@@ -8033,7 +8033,7 @@ aside.qodef-sidebar .widget.widget_tag_cloud a {
 
 .wpb_widgetised_column .widget.widget_tag_cloud a:hover,
 aside.qodef-sidebar .widget.widget_tag_cloud a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .wpb_widgetised_column .widget.qodef-recent-post-widget .qodef-recent-posts .qodef-rp-item,
@@ -8331,7 +8331,7 @@ aside.qodef-sidebar .widget:last-child {
 
 .widget #wp-calendar td#today {
     color: #fff;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .widget #wp-calendar td#today a {
@@ -8339,7 +8339,7 @@ aside.qodef-sidebar .widget:last-child {
 }
 
 .widget.widget_rss .qodef-widget-title .rsswidget:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .widget.widget_rss .rss-widget-icon {
@@ -8431,7 +8431,7 @@ aside.qodef-sidebar .widget:last-child {
 }
 
 .widget.widget_search button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .widget.widget_search button span {
@@ -8555,7 +8555,7 @@ aside.qodef-sidebar .widget:last-child {
 }
 
 .widget.widget_tag_cloud .tagcloud a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .vc_wp_search .widget.widget_search form>div {
@@ -8635,7 +8635,7 @@ aside.qodef-sidebar .widget:last-child {
 
 .qodef-page-footer .widget.widget_rss .qodef-footer-widget-title .rsswidget:hover,
 .qodef-side-menu .widget.widget_rss .qodef-footer-widget-title .rsswidget:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-page-footer .widget.widget_search form>div,
@@ -8677,7 +8677,7 @@ aside.qodef-sidebar .widget:last-child {
 
 .qodef-page-footer .widget.widget_search button:hover,
 .qodef-side-menu .widget.widget_search button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-page-footer .widget.widget_archive select,
@@ -8711,7 +8711,7 @@ aside.qodef-sidebar .widget:last-child {
 
 .qodef-page-footer .widget.widget_tag_cloud a:hover,
 .qodef-side-menu .widget.widget_tag_cloud a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-top-bar a {
@@ -8719,7 +8719,7 @@ aside.qodef-sidebar .widget:last-child {
 }
 
 .qodef-top-bar a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-top-bar .widget {
@@ -8988,7 +8988,7 @@ aside.qodef-sidebar .widget.widget_qodef_instagram_widget .qodef-widget-title {
 
 .qodef-social-icons-group-widget.qodef-square-icons .qodef-social-icon-widget-holder:hover {
     color: #29282d;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-social-icons-group-widget.qodef-square-icons .qodef-social-icon-widget-holder .qodef-social-icon-widget {
@@ -9007,7 +9007,7 @@ aside.qodef-sidebar .widget.widget_qodef_instagram_widget .qodef-widget-title {
 
 .qodef-social-icons-group-widget.qodef-square-icons.qodef-light-skin .qodef-social-icon-widget-holder:hover {
     color: #29282d;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-social-icons-group-widget .qodef-social-icon-widget-holder {
@@ -9081,7 +9081,7 @@ aside.qodef-sidebar .widget.widget_qodef_instagram_widget .qodef-widget-title {
     color: #fff;
     margin: 0;
     box-sizing: border-box;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     background-image: url(../img/twitter-background.png);
     background-position: right bottom;
     background-repeat: no-repeat
@@ -9146,7 +9146,7 @@ aside.qodef-sidebar .widget.widget_qodef_instagram_widget .qodef-widget-title {
 
 .widget.widget_qodef_twitter_widget .qodef-twitter-widget.qodef-twitter-slider li .qodef-twitter-icon i {
     font-size: 16px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .widget.widget_qodef_twitter_widget .qodef-twitter-widget.qodef-twitter-slider li .qodef-tweet-text {
@@ -9155,7 +9155,7 @@ aside.qodef-sidebar .widget.widget_qodef_instagram_widget .qodef-widget-title {
 
 .widget.widget_qodef_twitter_widget .qodef-twitter-widget.qodef-twitter-slider li .qodef-tweet-text a,
 .widget.widget_qodef_twitter_widget .qodef-twitter-widget.qodef-twitter-slider li .qodef-tweet-text span {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .widget.widget_qodef_twitter_widget .qodef-twitter-widget.qodef-twitter-slider li .qodef-tweet-text a:hover {
@@ -13481,7 +13481,7 @@ body .select2-container--default .select2-results__group {
 
 .widget_icl_lang_sel_widget .wpml-ls-legacy-dropdown .wpml-ls-item-toggle:hover,
 .widget_icl_lang_sel_widget .wpml-ls-legacy-dropdown-click .wpml-ls-item-toggle:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .widget_icl_lang_sel_widget .wpml-ls-legacy-dropdown .wpml-ls-item-toggle:after,
@@ -13721,7 +13721,7 @@ body.woocommerce .wishlist-title h2 {
 .yith-wcwl-popup-button a.add_to_wishlist,
 .yith-wcwl-wishlist-search-form button.wishlist-search-button,
 .yith-wcwl-wishlistexistsbrowse a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .hidden-title-form a.hide-title-form:hover,
@@ -13759,7 +13759,7 @@ body.woocommerce .wishlist-title h2 {
 .woocommerce table.wishlist_table tbody td.product-add-to-cart {
     font-size: 12px;
     text-transform: uppercase;
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .woocommerce table.wishlist_table tbody td.product-add-to-cart a {
@@ -13870,13 +13870,13 @@ body.woocommerce .wishlist-title h2 {
 .single-events .qodef-event-single-icon {
     float: left;
     margin-right: 10px;
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 16px
 }
 
 .single-events .qodef-ttevents-single-subtitle {
     margin: 0 0 17px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .single-events .qodef-ttevents-single-content {
@@ -13926,7 +13926,7 @@ body.woocommerce .wishlist-title h2 {
 
 .single-events .tt_event_hours li h4:nth-of-type(1) {
     margin-bottom: 11px;
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 12px;
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
@@ -13974,7 +13974,7 @@ body.woocommerce .wishlist-title h2 {
     font-size: 20px !important;
     text-transform: uppercase;
     font-weight: 600 !important;
-    color: #f34e3a;
+    color: #00ff00;
     letter-spacing: .1em
 }
 
@@ -13982,7 +13982,7 @@ body.woocommerce .wishlist-title h2 {
     content: ' ';
     width: 3px;
     height: 4px;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     position: relative;
     display: inline-block;
     margin: 0 0 3px 1px
@@ -14003,7 +14003,7 @@ body.woocommerce .wishlist-title h2 {
     position: absolute;
     left: 0;
     font-family: ElegantIcons;
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 18px
 }
 
@@ -14221,7 +14221,7 @@ table.tt_timetable .tt_tooltip_text {
 
 table.tt_timetable .tt_tooltip_text .tt_tooltip_content {
     color: #fff !important;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     text-align: center;
     padding: 9px 18px 5px 18px;
     margin: 0;
@@ -14239,7 +14239,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_content a {
 }
 
 table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
-    border-color: #f34e3a transparent;
+    border-color: #00ff00 transparent;
     border-width: 8px 8px 0;
     bottom: 0;
     z-index: 2;
@@ -14291,7 +14291,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .tt_tabs .tt_tabs_navigation .ui-tabs-active a,
 .tt_tabs .tt_tabs_navigation li a:hover {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     color: #fff !important
 }
 
@@ -14361,7 +14361,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .widget.tt_upcoming_events_widget .tt_upcoming_events .tt_upcoming_events_event_container:hover {
     height: auto;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     color: #fff
 }
 
@@ -14409,8 +14409,8 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .widget.tt_upcoming_events_widget .tt_upcoming_event_controls a:hover {
-    background-color: #f34e3a;
-    border-color: #f34e3a
+    background-color: #00ff00;
+    border-color: #00ff00
 }
 
 .widget.tt_upcoming_events_widget .tt_upcoming_event_controls span {
@@ -14436,7 +14436,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder article.sticky .qodef-post-title a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder article .qodef-post-content {
@@ -14569,7 +14569,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder article .qodef-post-info-top>div a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder article .qodef-post-info-bottom {
@@ -14633,7 +14633,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-blog-holder article.format-link .qodef-post-mark .qodef-link-mark {
     padding-top: 5px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder article.format-link .qodef-post-link-holder {
@@ -14658,7 +14658,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-blog-holder article.format-quote .qodef-post-text {
     padding: 50px 50px 47px;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-blog-holder article.format-quote .qodef-post-text-main {
@@ -14854,7 +14854,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-blog-holder article.format-audio .qodef-blog-audio-holder .mejs-container .mejs-controls>.mejs-time-rail .mejs-time-total .mejs-time-current {
     height: 5px;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-blog-holder article.format-audio .qodef-blog-audio-holder .mejs-container .mejs-controls>.mejs-time-rail .mejs-time-total .mejs-time-buffering,
@@ -14902,7 +14902,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder article.format-audio .qodef-blog-audio-holder .mejs-container .mejs-controls>a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-blog-holder article.format-video .qodef-self-hosted-video {
@@ -15050,7 +15050,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-blog-pagination ul li a.qodef-pag-active,
 .qodef-blog-pagination ul li a:hover {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     color: #fff
 }
 
@@ -15127,7 +15127,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-bl-standard-pagination ul li.qodef-bl-pag-active a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-bl-standard-pagination ul li.qodef-bl-pag-next,
@@ -15325,11 +15325,11 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-masonry article .qodef-post-read-more-button>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-masonry article .qodef-post-read-more-button>a:hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-blog-holder .qodef-blog-pagination {
@@ -15368,7 +15368,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-standard .qodef-post-info-bottom-left>div>a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 @media only screen and (max-width:680px) {
@@ -15437,7 +15437,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-standard .qodef-post-info-bottom-right .qodef-tags-holder .qodef-tags a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-standard .qodef-post-read-more-button {
@@ -15445,7 +15445,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-standard .qodef-post-read-more-button:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-author-description {
@@ -15495,7 +15495,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-author-description .qodef-author-description-text-holder .qodef-author-name a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-author-description .qodef-author-description-text-holder .qodef-author-email {
@@ -15535,7 +15535,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-author-description .qodef-author-description-text-holder .qodef-author-social-icons a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 @media only screen and (max-width:768px) {
@@ -15655,12 +15655,12 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-single-links-pages .qodef-single-links-pages-inner>a:hover,
 .qodef-single-links-pages .qodef-single-links-pages-inner>span:hover {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     color: #fff
 }
 
 .qodef-single-links-pages .qodef-single-links-pages-inner>span {
-    background-color: #f34e3a;
+    background-color: #00ff00;
     color: #fff
 }
 
@@ -15797,7 +15797,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-related-posts-holder .qodef-related-post .qodef-post-info>div a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-single article {
@@ -15852,7 +15852,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-single article .qodef-post-info-bottom .qodef-post-info-bottom-left .qodef-tags-holder .qodef-tags a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-single article .qodef-post-info-bottom .qodef-post-info-bottom-right .qodef-blog-share {
@@ -15872,11 +15872,11 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-holder.qodef-blog-single article .qodef-post-info-bottom .qodef-post-info-bottom-right .qodef-blog-share .qodef-social-share-holder a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-single .qodef-ps-info-author a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-holder.qodef-blog-single .qodef-post-info-author-image {
@@ -15964,7 +15964,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-list-holder .qodef-bli-content .qodef-bli-excerpt .qodef-post-read-more-button a.qodef-btn:hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-blog-list-holder .qodef-post-image {
@@ -16014,7 +16014,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-list-holder .qodef-bli-info>div a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-list-holder .qodef-post-title {
@@ -16205,7 +16205,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-list-holder.qodef-bl-minimal .qodef-post-info-date a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-list-holder.qodef-bl-simple .qodef-post-image {
@@ -16233,7 +16233,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-blog-list-holder.qodef-bl-simple .qodef-bli-content .qodef-post-info-date a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-blog-list-holder.qodef-bl-standard .qodef-post-image {
@@ -16936,7 +16936,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-main-menu ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-main-menu ul li a i:before {
@@ -17011,7 +17011,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-main-menu>ul>li.qodef-active-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-main-menu>ul>li.has_sub>a .qodef-menu-arrow {
@@ -17024,11 +17024,11 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-light-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li>a.current,
 .qodef-light-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li>a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-light-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li.qodef-active-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li>a {
@@ -17037,11 +17037,11 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li>a.current,
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li>a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-main-menu>ul>li.qodef-active-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-drop-down .second {
@@ -17113,12 +17113,12 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-drop-down .second .inner ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-drop-down .second .inner ul li.current-menu-ancestor>a,
 .qodef-drop-down .second .inner ul li.current-menu-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-drop-down .second .inner ul li.sub>a .item_outer:after {
@@ -17225,7 +17225,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-drop-down .wide .second .inner ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-drop-down .wide .second .inner ul li ul {
@@ -17316,7 +17316,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-drop-down .wide .second .inner>ul>li.current-menu-ancestor>a,
 .qodef-drop-down .wide .second .inner>ul>li.current-menu-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-drop-down .wide.left_position .second .inner>ul,
@@ -17400,7 +17400,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 }
 
 .qodef-fullscreen-menu-opener .qodef-fullscreen-menu-opener-icon:hover {
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-fullscreen-menu-opener .qodef-fullscreen-menu-close-icon {
@@ -17416,7 +17416,7 @@ table.tt_timetable .tt_tooltip_text .tt_tooltip_arrow {
 
 .qodef-fullscreen-menu-opener.qodef-fm-opened .qodef-fullscreen-menu-close-icon {
     opacity: 1;
-    color: #f34e3a;
+    color: #00ff00;
     font-weight: 700;
     top: -4px;
     left: -3px
@@ -17617,7 +17617,7 @@ nav.qodef-fullscreen-menu ul li ul.sub_menu {
 
 nav.qodef-fullscreen-menu ul li ul li.current-menu-ancestor>a,
 nav.qodef-fullscreen-menu ul li ul li.current-menu-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 nav.qodef-fullscreen-menu ul li ul li ul li a {
@@ -17634,7 +17634,7 @@ nav.qodef-fullscreen-menu>ul>li>a {
 }
 
 nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-below-menu-widget-holder {
@@ -17981,7 +17981,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-header-vertical .qodef-vertical-menu ul li a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-header-vertical .qodef-vertical-menu ul li a .item_outer {
@@ -18026,7 +18026,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-header-vertical .qodef-vertical-menu ul li.current-menu-item>a,
 .qodef-header-vertical .qodef-vertical-menu ul li.current_page_item>a,
 .qodef-header-vertical .qodef-vertical-menu ul li.qodef-active-item>a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-header-vertical .qodef-vertical-menu ul li ul {
@@ -18388,7 +18388,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-mobile-header .qodef-mobile-menu-opener.qodef-mobile-menu-opened a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-mobile-header .qodef-mobile-menu-opener.qodef-mobile-menu-opener-icon-pack .qodef-mobile-menu-icon {
@@ -18446,7 +18446,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-mobile-header .qodef-mobile-nav ul li a:hover,
 .qodef-mobile-header .qodef-mobile-nav ul li h6:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-mobile-header .qodef-mobile-nav ul ul {
@@ -18458,7 +18458,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-mobile-header .qodef-mobile-nav ul ul li.current-menu-ancestor>h6,
 .qodef-mobile-header .qodef-mobile-nav ul ul li.current-menu-item>a,
 .qodef-mobile-header .qodef-mobile-nav ul ul li.current-menu-item>h6 {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-mobile-header .qodef-mobile-nav ul ul li a,
@@ -18475,7 +18475,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-mobile-header .qodef-mobile-nav .qodef-grid>ul>li.qodef-active-item>a,
 .qodef-mobile-header .qodef-mobile-nav .qodef-grid>ul>li.qodef-active-item>h6 {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-mobile-header .qodef-mobile-nav .qodef-grid>ul>li.qodef-active-item>.mobile_arrow>.qodef-sub-arrow {
@@ -18758,7 +18758,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-light-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-search-opener:hover,
 .qodef-light-header .qodef-top-bar .qodef-search-opener:hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-search-opener,
@@ -18768,7 +18768,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-search-opener:hover,
 .qodef-dark-header .qodef-top-bar .qodef-search-opener:hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-search-page-holder {
@@ -18889,7 +18889,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-search-page-holder article.sticky .qodef-post-title a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-search-page-holder article.page .qodef-post-title-area .qodef-post-info>div.qodef-post-info-category {
@@ -19065,7 +19065,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-search-cover .qodef-search-close:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-search-cover .qodef-search-close.qodef-search-close-icon-pack {
@@ -19259,7 +19259,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-search-fade .qodef-fullscreen-with-sidebar-search-holder .qodef-fullscreen-search-table {
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-search-fade-out.qodef-search-fade .qodef-fullscreen-with-sidebar-search-holder {
@@ -19411,7 +19411,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-fullscreen-search-holder .qodef-search-submit:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-fullscreen-search-opened .qodef-fullscreen-search-holder .qodef-search-submit {
@@ -19437,7 +19437,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
     position: absolute;
     top: 40px;
     right: 70px;
-    color: #f34e3a;
+    color: #00ff00;
     opacity: 0;
     visibility: hidden;
     z-index: 1
@@ -19834,7 +19834,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-light-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-side-menu-button-opener .qodef-side-menu-icon:hover,
 .qodef-light-header .qodef-top-bar .qodef-side-menu-button-opener .qodef-side-menu-icon.opened,
 .qodef-light-header .qodef-top-bar .qodef-side-menu-button-opener .qodef-side-menu-icon:hover {
-    background-color: #f34e3a !important
+    background-color: #00ff00 !important
 }
 
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-side-menu-button-opener .qodef-side-menu-icon,
@@ -19847,7 +19847,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-dark-header .qodef-page-header>div:not(.qodef-sticky-header):not(.fixed) .qodef-side-menu-button-opener .qodef-side-menu-icon:hover,
 .qodef-dark-header .qodef-top-bar .qodef-side-menu-button-opener .qodef-side-menu-icon.opened,
 .qodef-dark-header .qodef-top-bar .qodef-side-menu-button-opener .qodef-side-menu-icon:hover {
-    background-color: #f34e3a !important
+    background-color: #00ff00 !important
 }
 
 .qodef-side-menu-button-opener {
@@ -19890,7 +19890,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-side-menu-button-opener.opened .qodef-side-menu-icon,
 .qodef-side-menu-button-opener:hover .qodef-side-menu-icon {
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-side-menu-button-opener.qodef-side-menu-button-opener-icon-pack .qodef-side-menu-icon {
@@ -19972,7 +19972,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-side-menu a.qodef-close-side-menu.qodef-close-side-menu-icon-pack {
     font-size: 30px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-side-menu a.qodef-close-side-menu.qodef-close-side-menu-icon-pack:before {
@@ -20378,7 +20378,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-portfolio-single-holder .qodef-ps-info-holder .qodef-ps-info-item a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-portfolio-single-holder .qodef-ps-info-holder .qodef-ps-info-item .qodef-ps-info-date {
@@ -20446,11 +20446,11 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-portfolio-single-holder .qodef-ps-info-holder .qodef-ps-info-author:hover .qodef-ps-info-author-text {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-portfolio-single-holder .qodef-ps-info-holder .qodef-ps-info-author:hover .qodef-ps-info-author-link {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-portfolio-single-holder .qodef-ps-info-holder .qodef-ps-info-author-image {
@@ -20799,7 +20799,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-ps-navigation .qodef-ps-back-btn a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-ps-navigation .qodef-ps-back-btn a span {
@@ -20840,7 +20840,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-ps-navigation .qodef-ps-next a:hover,
 .qodef-ps-navigation .qodef-ps-prev a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-ps-navigation .qodef-ps-next a .qodef-ps-nav-mark,
@@ -21416,7 +21416,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-pl-filter-holder ul li.qodef-pl-current span,
 .qodef-pl-filter-holder ul li:hover span {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-portfolio-list-holder.qodef-pl-pag-standard .qodef-pl-inner {
@@ -21467,7 +21467,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-pl-standard-pagination ul li.qodef-pl-pag-active a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-pl-standard-pagination ul li.qodef-pl-pag-next,
@@ -21623,7 +21623,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-portfolio-list-holder.qodef-pl-gallery-overlay article .qodef-pli-text .qodef-pli-category-holder a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-portfolio-list-holder.qodef-pl-gallery-overlay .qodef-pli-text-holder {
@@ -22115,7 +22115,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-team.info-hover .qodef-team-inner .qodef-team-position-main-inner {
     background: #fff;
-    color: #f34e3a;
+    color: #00ff00;
     letter-spacing: .17em;
     font-family: Ubuntu, sans-serif;
     font-weight: 500;
@@ -22141,7 +22141,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-team.info-hover .qodef-icon-shortcode:hover .qodef-icon-element {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-team.info-hover .qodef-team-info-tb {
@@ -22608,7 +22608,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-testimonials-holder.qodef-testimonials-image-pagination .qodef-testimonials-image-pagination-inner .qodef-testimonials-author-job {
     margin: 0;
     text-align: left;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-testimonials-holder.qodef-testimonials-image-pagination .qodef-testimonials-image-pagination-inner .qodef-testimonial-text {
@@ -22847,7 +22847,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 
 .qodef-testimonials-holder.qodef-testimonials-image-pagination.qodef-testimonials-light .owl-nav .owl-next:hover,
 .qodef-testimonials-holder.qodef-testimonials-image-pagination.qodef-testimonials-light .owl-nav .owl-prev:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-testimonials-holder.qodef-testimonials-standard {
@@ -22996,7 +22996,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 }
 
 .qodef-reviews-per-criteria .qodef-item-reviews-average-rating {
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 60px;
     line-height: 1em;
     font-weight: 700
@@ -23309,7 +23309,7 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-accordion-holder.qodef-ac-boxed .qodef-accordion-title.ui-state-active,
 .qodef-accordion-holder.qodef-ac-boxed .qodef-accordion-title.ui-state-hover {
     color: #fff;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-accordion-holder.qodef-ac-boxed .qodef-accordion-content {
@@ -23432,14 +23432,14 @@ nav.qodef-fullscreen-menu>ul>li.qodef-active-item>a {
 .qodef-banner-holder .qodef-banner-price {
     margin: 6px 0 10px;
     letter-spacing: .15em;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-banner-holder .qodef-btn.qodef-btn-simple {
     position: relative;
     z-index: 2;
     font-size: 12px;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-banner-holder .qodef-banner-link {
@@ -23531,7 +23531,7 @@ rs-module-wrap .qodef-btn {
 
 .qodef-btn.qodef-btn-simple {
     padding: 0 !important;
-    color: #f34e3a;
+    color: #00ff00;
     background-color: transparent;
     border: 0;
     vertical-align: middle
@@ -23549,7 +23549,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-btn.qodef-btn-simple:not(.qodef-btn-custom-hover-color):hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-btn.qodef-btn-simple:not(.qodef-btn-custom-hover-bg):hover {
@@ -23588,7 +23588,7 @@ rs-module-wrap .qodef-btn {
 
 .qodef-btn.qodef-btn-solid {
     color: #fff;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     border: 1px solid transparent
 }
 
@@ -23632,9 +23632,9 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-btn.qodef-btn-outline {
-    color: #f34e3a;
+    color: #00ff00;
     background-color: transparent;
-    border: 1px solid #f34e3a
+    border: 1px solid #00ff00
 }
 
 .qodef-btn.qodef-btn-outline:hover .qodef-btn-text-inner-icon .arrow_right:nth-of-type(1),
@@ -23944,7 +23944,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-countdown.qodef-light-skin .countdown-row .countdown-section .countdown-amount {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-countdown.qodef-light-skin .countdown-row .countdown-section .countdown-period {
@@ -24040,7 +24040,7 @@ rs-module-wrap .qodef-btn {
     height: 1em;
     display: inline-block !important;
     vertical-align: middle;
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 50px;
     line-height: 1em;
     font-weight: 600;
@@ -24225,12 +24225,12 @@ rs-module-wrap .qodef-btn {
 
 .qodef-event-list-holder .qodef-event-list-item-holder:nth-child(4n) .qodef-event-list-category-holder a,
 .qodef-event-list-holder .qodef-event-list-item-holder:nth-child(4n+1) .qodef-event-list-category-holder a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-event-list-holder .qodef-event-list-item-holder:nth-child(4n+2),
 .qodef-event-list-holder .qodef-event-list-item-holder:nth-child(4n+3) {
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-event-list-holder .qodef-event-list-item-holder:nth-child(4n+1),
@@ -24337,7 +24337,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-event-list-holder.qodef-event-skin-dark .qodef-event-list-item-holder .qodef-event-list-category-holder a {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder {
@@ -24350,7 +24350,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder .qodef-event-list-category-holder a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder .qodef-event-list-category-holder a:hover {
@@ -24363,15 +24363,15 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder .qodef-event-list-item-title a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder .qodef-event-list-read-more-button .qodef-btn {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-event-list-holder.qodef-event-skin-light .qodef-event-list-item-holder .qodef-event-list-read-more-button .qodef-btn:hover {
-    color: #f34e3a !important
+    color: #00ff00 !important
 }
 
 .qodef-event-list-holder.qodef-event-list-two-columns .qodef-event-list-item-holder {
@@ -24503,7 +24503,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-iwt a:hover .qodef-iwt-title-text {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-iwt .qodef-iwt-icon .qodef-icon-shortcode {
@@ -24605,7 +24605,7 @@ rs-module-wrap .qodef-btn {
     height: 2em;
     line-height: 2em;
     text-align: center;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     -webkit-transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
     -o-transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out
@@ -25033,7 +25033,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-image-with-text-holder.qodef-image-behavior-custom-link:hover .qodef-iwt-title {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-image-with-text-holder.qodef-image-behavior-custom-link:hover .qodef-iwt-image {
@@ -25499,7 +25499,7 @@ rs-module-wrap .qodef-btn {
     position: relative;
     display: block;
     margin: 4px 0 0;
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-price-table .qodef-pt-inner ul li.qodef-pt-content {
@@ -25534,7 +25534,7 @@ rs-module-wrap .qodef-btn {
     height: 0;
     border-style: solid;
     border-width: 0 60px 60px 0;
-    border-color: transparent #f34e3a transparent transparent
+    border-color: transparent #00ff00 transparent transparent
 }
 
 .qodef-price-table.qodef-pt-highlighted .qodef-pt-inner:after {
@@ -25770,7 +25770,7 @@ rs-module-wrap .qodef-btn {
     height: 9px;
     max-width: 100%;
     overflow: hidden;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-section-title-holder {
@@ -26112,7 +26112,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-social-share-holder.qodef-dropdown .qodef-social-share-dropdown-opener:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-social-share-holder.qodef-dropdown .qodef-social-share-dropdown-opener:hover .social_share {
@@ -26389,7 +26389,7 @@ rs-module-wrap .qodef-btn {
 .qodef-tabs.qodef-tabs-standard .qodef-tabs-nav li.ui-state-active a,
 .qodef-tabs.qodef-tabs-standard .qodef-tabs-nav li.ui-state-hover a {
     color: #fff;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-tabs.qodef-tabs-standard .qodef-tab-container {
@@ -26420,7 +26420,7 @@ rs-module-wrap .qodef-btn {
 .qodef-tabs.qodef-tabs-boxed .qodef-tabs-nav li.ui-state-active a,
 .qodef-tabs.qodef-tabs-boxed .qodef-tabs-nav li.ui-state-hover a {
     color: #fff;
-    background-color: #f34e3a
+    background-color: #00ff00
 }
 
 .qodef-tabs.qodef-tabs-boxed .qodef-tabs-nav li:last-child {
@@ -26455,7 +26455,7 @@ rs-module-wrap .qodef-btn {
 
 .qodef-tabs.qodef-tabs-simple .qodef-tabs-nav li.ui-state-active a,
 .qodef-tabs.qodef-tabs-simple .qodef-tabs-nav li.ui-state-hover a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-tabs.qodef-tabs-simple .qodef-tabs-nav li:last-child {
@@ -26506,7 +26506,7 @@ rs-module-wrap .qodef-btn {
 
 .qodef-tabs.qodef-tabs-vertical .qodef-tabs-nav li.ui-state-active a,
 .qodef-tabs.qodef-tabs-vertical .qodef-tabs-nav li.ui-state-hover a {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-tabs.qodef-tabs-vertical .qodef-tabs-nav li.qodef-tab-line {
@@ -26516,7 +26516,7 @@ rs-module-wrap .qodef-btn {
     right: 0;
     width: 7px;
     z-index: 300;
-    background-color: #f34e3a;
+    background-color: #00ff00;
     -webkit-transition: all .4s ease 30ms;
     -o-transition: all .4s ease 30ms;
     transition: all .4s ease 30ms
@@ -26634,7 +26634,7 @@ rs-module-wrap .qodef-btn {
 
 .qodef-team-holder.qodef-team-info-on-image .qodef-team-position-main-inner {
     background: #fff;
-    color: #f34e3a;
+    color: #00ff00;
     letter-spacing: .17em;
     font-family: Ubuntu, sans-serif;
     font-weight: 500;
@@ -26652,7 +26652,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-team-holder.qodef-team-info-on-image .qodef-team-position:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-team-holder.qodef-team-info-on-image .qodef-team-text {
@@ -26710,7 +26710,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-team-holder.qodef-team-info-on-image .qodef-team-social-holder .qodef-team-icon a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-team-holder.qodef-team-info-on-image .qodef-team-social-holder .qodef-team-icon .qodef-icon-element {
@@ -26756,7 +26756,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-team-holder.qodef-team-info-below-image .qodef-team-social-holder .qodef-team-icon a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-team-holder.qodef-team-info-below-image .qodef-team-social-holder .qodef-team-icon .qodef-icon-element {
@@ -26774,7 +26774,7 @@ rs-module-wrap .qodef-btn {
 }
 
 .qodef-team-holder.qodef-team-info-below-image .qodef-team-position:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-text-marquee {
@@ -27277,7 +27277,7 @@ rs-module-wrap .qodef-video-button-holder .qodef-video-button-play-image img:nth
     width: 20px;
     display: inline-block;
     vertical-align: top;
-    color: #f34e3a;
+    color: #00ff00;
     font-size: 24px;
     text-align: right
 }
@@ -27295,7 +27295,7 @@ rs-module-wrap .qodef-video-button-holder .qodef-video-button-play-image img:nth
 }
 
 .qodef-twitter-list-holder .qodef-tweet-text a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-twitter-list-holder .qodef-twitter-profile a {
@@ -27305,7 +27305,7 @@ rs-module-wrap .qodef-video-button-holder .qodef-video-button-play-image img:nth
 }
 
 .qodef-twitter-list-holder .qodef-twitter-profile a:hover {
-    color: #f34e3a
+    color: #00ff00
 }
 
 .qodef-twitter-list-holder.qodef-tl-two-columns .qodef-tl-item {
